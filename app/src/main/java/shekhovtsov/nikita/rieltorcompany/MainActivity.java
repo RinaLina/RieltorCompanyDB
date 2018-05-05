@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private final String passAdmin = "1";
     private final String passDirector = "2";
     private final String passWorker = "3";
+    private final String myopinion = "ebala ya eti makety";
 
     private void InitUI() {
         login = findViewById(R.id.editText_login);
